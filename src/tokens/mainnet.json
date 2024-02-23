@@ -1,0 +1,10 @@
+[
+  {
+    "name": "IGNITE",
+    "address": "0xA843520d406cfF0D648E4F6B6833C987ccB9Ef14",
+    "symbol": "IGN",
+    "decimals": 18,
+    "chainId": 168587773,
+    "logoURI": "https://www.ignitefi.xyz/icon.png"
+  }
+]
